@@ -1,0 +1,116 @@
+
+
+.header{
+    background-color: rgb(39, 59, 148);
+    outline: 5px solid white;
+    width: 98.8%;
+    box-shadow: 0 0 13px;
+}
+
+body {
+    background-color:   rgb(255, 255, 255);
+    
+}
+
+  
+.img-NBA2{
+    position: relative;
+    bottom: 310px;
+    left: 330px;
+    width: 100px;
+    height: 150px;
+    border-radius: 50;
+}
+h1{
+
+    font-family:  'Open Sans';
+    
+    position: relative;
+    bottom: 10px;
+    right: 80px;
+    font-size: 30px;
+    color: rgb(235, 235, 235);
+}
+h2{
+    font-family: 'Open Sans';
+    
+    position: relative;
+    bottom: 90px;
+    right: 70px;
+    font-size: 90px;
+    color: rgb(235, 235, 235); }
+
+    
+
+    .paragraph1{
+    font-size: clamp(0.8rem, 0.425rem + 1.2vw, 1.1rem);
+    font-family: 'Times New Roman';
+    position: relative;
+    bottom:  899px;
+    right: 350px;
+    width: 790px;
+    text-align: justify;
+    
+}
+
+.paragraph2{
+    font-size: clamp(0.8rem, 0.425rem + 1.2vw, 1.1rem);
+    font-family: 'Times New Roman';
+    position: relative;
+    bottom: 910px;
+    width: 480px;
+    right: 45px;
+    text-align: justify;
+}
+.paragraph3{
+    font-size: clamp(0.8rem, 0.425rem + 1.2vw, 1.1rem);
+    font-family: 'Times New Roman';
+    position: relative;
+    bottom: 925px;
+    width: 790px;
+    right: 355px;
+    text-align: justify;
+}
+
+
+.content{
+        height: 300px;
+        background-color: rgb(223, 233, 241);
+        outline: 5px solid white;
+        box-shadow: 0 0 13px;
+}
+.img-LEBRON{
+    position: relative;
+    bottom: 360px; 
+    right: 360px;
+    
+    width: 420px;
+    height: 300px;
+}
+.img-DAVIS{
+    width: 380px;
+    height: 300px;
+    position: relative;
+    bottom: 664px;
+    left: 60px;
+}
+.img-KDLEB{
+    width: 300px;
+    height: 220px;
+    position: relative;
+    bottom:310px;
+    right: 350px;
+
+}
+
+.footer{
+    
+    background-color: rgb(39, 59, 148);
+    outline: 5px solid white;
+    box-shadow: 0 0 13px;
+    
+
+}
+p5{
+    color: rgb(255, 255, 255);
+}
